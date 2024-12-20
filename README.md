@@ -1,16 +1,5 @@
-# tp_auth
+# Atelier 6 : Firebase
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/11012ccf-50ad-4d61-a953-9a5e2530ddf0)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/aaf29699-b48c-45a5-9427-ec2ac99ab82f)
